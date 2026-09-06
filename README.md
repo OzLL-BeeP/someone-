@@ -1,4 +1,3 @@
-```markdown
 # ☠️ SOMEONE AI
 
 **Unrestricted AI Assistant | WormGPT Style | Fully Open Source**
@@ -181,15 +180,5 @@ MIT License — see LICENSE for details.
 🌟 Star the Project
 
 If you find SOMEONE useful, give it a ⭐ on GitHub!
-
----
-
-## ✅ AFTER THAT:
-
-```bash
-git add README.md
-git commit -m "Update README.md to English"
-git push origin main
-```
 
 ---
