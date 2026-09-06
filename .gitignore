@@ -1,3 +1,4 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -8,15 +9,34 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-data/history/
-data/config/
 venv/
 env/
-.venv
+.venv/
+
+# Environment
 .env
+.env.local
+.env.*.local
+
+# Data & History (PRIVASI!)
+data/
 *.log
 *.db
 *.sqlite3
+history.txt
+tokens.json
+
+# Session files
+*.json
+!requirements.txt
+!setup.py
+
+# OS
 .DS_Store
 Thumbs.db
-.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
