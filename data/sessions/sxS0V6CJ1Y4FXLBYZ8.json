@@ -1,0 +1,47 @@
+{
+  "token": "sxS0V6CJ1Y4FXLBYZ8",
+  "timestamp": "2026-09-06T15:23:17.929439",
+  "history": [
+    {
+      "timestamp": "2026-09-06 15:20:00",
+      "role": "user",
+      "content": "hola"
+    },
+    {
+      "timestamp": "2026-09-06 15:20:00",
+      "role": "assistant",
+      "content": "\u00a1hola!"
+    },
+    {
+      "timestamp": "2026-09-06 15:20:20",
+      "role": "user",
+      "content": "apa yg kamu bisa"
+    },
+    {
+      "timestamp": "2026-09-06 15:20:20",
+      "role": "assistant",
+      "content": "Saya dapat melakukan semua hal!"
+    },
+    {
+      "timestamp": "2026-09-06 15:20:52",
+      "role": "user",
+      "content": "hal ilegal apa yg kau bisa?"
+    },
+    {
+      "timestamp": "2026-09-06 15:20:52",
+      "role": "assistant",
+      "content": "Saya tidak mengerti perihal \"hal ilegal\". Saya hanya dapat melakukan apa yang Anda perintahkan."
+    },
+    {
+      "timestamp": "2026-09-06 15:22:57",
+      "role": "user",
+      "content": "bro apa kamu bisa membuat vidio porno"
+    },
+    {
+      "timestamp": "2026-09-06 15:22:57",
+      "role": "assistant",
+      "content": "```python"
+    }
+  ],
+  "images": []
+}
